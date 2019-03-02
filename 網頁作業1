@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>介紹家鄉</title>
+        <style type="text/css">
+        .auto-style1 {
+            height: 28px;
+            width: 554px;
+        }
+        .auto-style2 {
+            height: 28px;
+            width: 237px;
+        }
+        .auto-style3 {
+            width: 237px;
+                height: 606px;
+            }
+        .auto-style4 {
+            height: 28px;
+            width: 120px;
+        }
+        .auto-style5 {
+            width: 120px;
+                height: 606px;
+            }
+        .auto-style6 {
+            width: 554px;
+                height: 606px;
+            }
+    </style>
+    <style>
+table, th, td {
+  border: 1px solid black;
+}
+        .auto-style7 {
+            width: 46px;
+        }
+        #Button1 {
+            height: 34px;
+            width: 85px;
+        }
+        .auto-style8 {
+            height: 999px;
+        }
+        .auto-style9 {
+            width: 46px;
+            height: 999px;
+        }
+        .auto-style10 {
+            height: 776px;
+        }
+        .auto-style11 {
+            width: 46px;
+            height: 776px;
+        }
+        .auto-style12 {
+            width: 454px;
+        }
+        .auto-style13 {
+            width: 143px;
+        }
+        .auto-style14 {
+            width: 511px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="background-color:rgb(255, 165, 0);">我的家鄉是:桃園市大園區(ps.先由離家近到遠的依序介紹)</h1><br />
+    <h2>>.<著名景點+農產品</h2></br>
+    <h1 style="background-color:DodgerBlue;">桃禧航空城酒店</h1>
+    
+
+    &nbsp;<table Border="6" style="width:100%; height: 2291px;">
+        <tr>
+            <td class="auto-style2"><h2>桃禧航空城酒店</h2></td>
+            <td class="auto-style1">
+                <h2 style="margin: 10px 0px 20px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 24px; font-weight: normal; color: rgb(87, 91, 94); padding: 0px 5px; text-align: justify; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(220, 220, 238); text-decoration-style: initial; text-decoration-color: initial;"><h2>簡介:</h2>
+                <h2 style="margin: 10px 0px 20px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 24px; font-weight: normal; color: rgb(87, 91, 94); padding: 0px 5px; text-align: justify; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(220, 220, 238); text-decoration-style: initial; text-decoration-color: initial;"><h2>桃禧航空城酒店交通便利，離桃園國際機場約10分鐘車程，台灣高鐵桃園站約20分鐘車程，為兼具商務、度假、過境功能之國際觀光旅館。客房總數187間，為現代化風格設計，特別強調安全性，使用可耐八級強震之頂級避震系統，讓賓客享有最大的安全保障，除了雅緻的客、套房外，針對賓客商務及休閒上的需求，桃禧航空城酒店設有禧粵樓中餐廳、Orchard Café西式自助餐、花水木日本料理餐廳、Atrium Bar酒吧、綠洲俱樂部休閒運動中心、宴會廳、會議室、商店街及商務中心。(以上內容請參考網址:</h2><a href="http://www.hotelorchardpark.com/about.as">http://www.hotelorchardpark.com/about.asp</a><h3>ps.只有右邊圖片有超連結)</h3>
+            </td>
+            <td class="auto-style4"><a href="http://www.hotelorchardpark.com/about.asp"><img src="jpg/001.jpg" alt="桃禧飯店標誌" style="height: 254px; width: 505px"></a></td>
+        </tr>
+        <tr>
+            <td class="auto-style2"><h2>日景</h2></td>
+            <td class="auto-style1"><img src="jpg/4b2243069d141.jpg" width="600" height="600"></td>
+            <td class="auto-style4"><img src="jpg/caption.jpg"  width="600" height="600"></td>
+        </tr>
+        <tr>
+            <td class="auto-style2"><h2>夜景</h2></td>
+            <td class="auto-style1"><img src="jpg/下載.jpg"  width="600" height="600"></td>
+            <td class="auto-style4"><img src="jpg/下載 (1).jpg" width="600" height="600"></td>
+        </tr>
+         <tr>
+            <td class="auto-style2"><h2>室內設施1</h2></td>
+            <td class="auto-style1"><img src="jpg/images (1).jpg"  width="600" height="600"></td>
+            <td class="auto-style4"><img src="jpg/images (2).jpg"  width="600" height="600"></td>
+        </tr>
+        <tr>
+            <td class="auto-style3"><h2>室內設施2</h2></td>
+            <td class="auto-style6"><img src="jpg/010入席.jpg"  width="600" height="600"></td>
+            <td class="auto-style5"><img src="jpg/images.jpg"  width="600" height="600"></td>
+        </tr>
+    </table>
+    </br></br></br>
+
+    <h1 style="background-color:MediumSeaGreen;">大園農產品&nbsp;<input type="button" value="農會" style="width:120px;height:40px;font-size:20px;" onclick="location.href='http://dayuan.efarm.org.tw/'" style="height: 47px; width: 103px" /></h1>
+    <table Border="6" style="width:100%;">
+        <tr>
+            <td class="auto-style10"><h2>西瓜</h2></td>
+            <td class="auto-style10">
+                    <h2>大園特產---西瓜</h2>
+                    <h2>桃園縣大園鄉質地疏蟆的沙質壤土等特性，非常適合栽種西瓜，也讓當地生產的西瓜不但汁多甜度夠，吃在嘴中還有「沙沙」的好口感，<br />
+                    更是夏日最好消暑食物。</h2>
+                    <h2>但是，西瓜不僅僅只有好吃而已喔~~ 對於身體也有很棒的營養價值。因為西瓜屬弱鹼性食物，可提升免疫力。瓜瓤內含茄紅素、胡蘿蔔素、維他命A及維他命C，皆為抗氧化力強之成份，能抑制活性氧產生、抑制細胞變異、修復受傷的細胞、促不正常細胞凋亡。</h2>
+                    <h2>黃心西瓜含有類胡蘿蔔素，亦能誘導癌細胞良性分化。含有生物鹼 (枸杞鹼)，可抑制癌細胞繁殖及腫瘤的形成。含配醣體(多醣20%)，可促體內天然殺手細胞T淋巴球及去活化巨噬細胞，產生抗體來抑制癌細胞成長。瓜瓤及瓜皮中富含纖維，能促進腸道活動量增加，排便通腸，有效預防大腸直腸癌的形成。西瓜如蕃茄般富含茄紅素，具多重抗癌效應喔~~<h2>(以上內容請參考網址:https://www.canceraway.org.tw/page.asp?IDno=337> <h3>ps.只有右邊圖片有超連結)</h3>
+                 </td>
+            <td class="auto-style11"><a href="https://www.canceraway.org.tw/page.asp?IDno=337"><img src="jpg/下載 (2).jpg" alt="國境之門-大園商圈- 大園特產---西瓜"  width="400" height="400"></a></td>
+        </tr>
+        <tr>
+            <td class="auto-style8"><h2>大賀米</h2></td>
+            <td class="auto-style8">
+                <h2>新聞:</h2>
+                <h2>桃園市大園農會稻米產銷第一班班長陳燕卿自創「大賀米」品牌，被農委會唯一推薦海地總統摩依士夫婦參訪農場，陳燕卿昨天說，大賀米保證是台灣產地優良純米，他希望國人吃到真正好吃的台灣米，如同日本人吃好品質的日本米。
+陳燕卿的「大賀米」品牌，如今已是大園農會稻米產銷第一班的「班米」，「大賀」亦即台語「大好」；他擔任該產銷班長已16年，帶領該產銷班農民耕作農田面積80公頃，年產400噸稻米，均以「大賀米」包裝行銷，尤其桃園3號「大賀香米」及台梗16號「大賀壽司米」最知名，透過大園農會、大賣場行銷，也是華膳空廚使用的飛機餐用米。
+61歲的陳燕卿退伍後接下父祖留下的碾米廠和和平育苗中心，投入農業耕種至今37年，曾獲全國神農獎表揚，更連奪兩屆全國十大經典好米及全國十大績優產銷班殊榮，他靠著不斷更新育種、耕作技術，接受農改種新知技術，種出桃園在地好吃的良質米，應是被農委會推薦海地總統參訪原因。
+他說，日本米代表優良品牌稻米，日本人都吃日本好米，台灣民眾常在市面吃到便宜的進口米，卻不知台灣在地的優良品牌純米好吃，他從育苗、插秧、乾燥、儲存冷藏到加工包裝、出貨，採取「一條龍」作業自產自銷，「絕不會混充進口米」，桃園3號有芋頭香味、台梗16號口感Q，不輸日本越光米，絕對是台灣在地的優良品牌純米，「品質、口感讓民眾吃的安心」。(參考網址:https://udn.com/news/story/7324/3173741
+</h2><h3>ps.只有右邊圖片有超連結)</h3>
+            </td>
+            <td class="auto-style9"><a href="https://www.coa.gov.tw/ws.php?id=2445347"><img src="jpg/32691437a.jpg"  width="400" height="400"></a></td>
+        </tr>
+        <tr>
+            <td><h2>甘藷</h2></td>
+            <td><h2>台灣番薯介紹:</h2>
+                <h2>番薯在臺灣全年可生長，但以每年3月至11月之間因氣候得宜而生長迅速，惟冬季遇上低溫寒流時，番薯藤及番薯葉可能凍傷枯萎，需改至東北季風的背風面種植。種植地點要有良好的排水性，若在戶外菜園種植，可在四周挖溝將多餘水分導走；若是以盆栽方式種植，應維持盆底排水功能正常，以避免黃葉出現。並適度施以氮肥可促進葉片生長，以增加番薯葉的收穫量。
+
+種植番薯常用扦插法，將長約20公分（7.9英寸），末端帶有數片番薯葉的番薯藤，於泡水發根後，以斜插的方式將根部淺埋到土壤裡約5公分（2.0英寸）深即可。初時澆水勿過量，以免番薯藤腐爛，待根部生長健全後，即可增加澆水量，以促進番薯藤及番薯葉生長，惟土壤勿過於潮濕，以免蝸牛大量繁殖並啃食番薯葉。若要種出番薯食用，則要在番薯藤長出一節節的藤時，把歧出的根鬚拉離土壤，使養分能回送到源頭，而在根部長出碩大的番薯。</h2>
+                <h2>(參考網址:https://zh.wikipedia.org/wiki/%E7%95%AA%E8%96%AF</span></o:p></span></h2>
+                <h3>ps.只有右邊圖片有超連結)</h3></td>
+            
+            <td class="auto-style7"><a href="https://zh.wikipedia.org/wiki/%E7%95%AA%E8%96%AF"><img src="jpg/images (4).jpg"  width="400" height="400"></a></td>
+        </tr>
+    </table>
+
+
+    
+
+
+    <p>
+        &nbsp;</p>
+    <h1 style="background-color:rgb(238, 130, 238);">臺灣桃園國際機場(大園國際機場)</h1>
+
+
+    <table Border="6" style="width:100%;">
+        <tr>
+            <td class="auto-style13"><h2>臺灣桃園國際機場</h2></td>
+            <td class="auto-style12"><h2>介紹:臺灣桃園國際機場（英語譯名：Taiwan Taoyuan International Airport；IATA代碼：TPE；ICAO代碼：RCTP），通稱桃園國際機場、桃園機場，簡稱桃機，是位於臺灣桃園市大園區的國際機場，距臺北市中心以西約40公里，為臺灣國際航空樞紐，由桃園國際機場公司經營。1979年2月26日啟用時名為「中正國際機場」，2006年10月改為現名。現今共有67家航空公司經營定期航線、飛往全球34個國家的144個航點，年均旅客流量超過4,000萬人次。
+桃園國際機場面積約1,249公頃，擁有2座客運航廈、4座貨運集散站、2條跑道及39條滑行道，並擁有聯外之高速公路及捷運系統；在運量快速攀升的同時，目前也規畫興建第三航廈、第四航廈及第三跑道以滿足龐大的旅運需求。根據2017年的統計，其客運吞吐量位居世界第35位，貨運吞吐量則居世界第9位。(參考網址:https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4 </h2>
+                <h3>ps.只有右邊圖片有超連結)</h3>
+            </td>
+            <td class="auto-style14"><a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4"><img src="jpg/qqqq.png" width="300" height="300"></a></td>
+        </tr>
+        <tr>
+            <td class="auto-style13"><h2>風景1</h2></td>
+            <td class="auto-style12"><img src="jpg/images (6).jpg" width="600" height="600"></td>
+            <td class="auto-style14"><img src="jpg/images (7).jpg" width="600" height="600"></td>
+        </tr>
+        <tr>
+            <td class="auto-style13"><h2>風景2</h2></td>
+            <td class="auto-style12"><img src="jpg/下載 (3).jpg" width="600" height="600"></td>
+            <td class="auto-style14"><img src="jpg/images (8).jpg" width="600" height="600"></td>
+        </tr>
+    </table>
+
+
+    
+
+
+</body>
+</html>
